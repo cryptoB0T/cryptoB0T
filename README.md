@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I’m just another person trying to make wallets and blockchain accounts suck less. If you’re tired of clunky UX and endless seed phrases, you’re in the right place.
+Hey, I’m just another robot trying to make wallets and blockchain accounts suck less. If you’re tired of clunky UX and endless seed phrases, you’re in the right place.
 
 ### What I’m Working On
 
