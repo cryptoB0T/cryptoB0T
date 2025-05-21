@@ -1,41 +1,55 @@
-# 🌶️ Welcome to the Spice Rack of Account Abstraction! 🌶️
+## About Me
 
-## Who am I? Just your friendly neighborhood wallet revolutionist! 🦸‍♂️
+Hey, I’m just another person trying to make wallets and blockchain accounts suck less. If you’re tired of clunky UX and endless seed phrases, you’re in the right place.
 
-### 🔥 Currently Cooking Up:
-Open-sourcing some seriously hot account abstraction tooling. It's so fire, it might just melt your private keys (but in a good way)!
+### What I’m Working On
 
-### 🧠 Always Learning:
-Diving deep into the multiverses of account abstraction. There are more ways to build these features than there are cryptocurrencies – and that's saying something!
+Right now, I’m open-sourcing some account abstraction tools. The goal? Make wallets safer, smarter, and less of a headache. If it breaks, at least it breaks in interesting ways.
 
-### 👯‍♂️ Looking to Collaborate:
-If it's related to account abstraction, I'm in! Whether you're abstracting accounts, contracting smarts, or just trying to make wallets less dumb, let's team up!
+### Always Learning
 
-### 💬 Ask me about:
-Why we have more names for smart wallets than Eskimos have for snow:
+Account abstraction is a rabbit hole, and I’m still falling. There are a million ways to do it, and I’m here to try as many as I can before something actually sticks.
+
+### Open to Collaboration
+
+If you’re building anything even remotely related to account abstraction—smart contracts, wallets, or just making blockchain less painful—hit me up. I’m always down to experiment, break things, and maybe even ship something useful.
+
+### Ask Me About
+
+Why do we have so many names for smart wallets? No one really knows, but here’s a few:
+
 - Smart accounts
 - Smart wallets
 - Smart contract wallets
-- Smart contract accounts
 - Abstracted accounts
 - User operation proxies
 - Blockchain identity hubs
-- Crypto personality pods
 
-...and the list goes on! Is it because we're indecisive, or just too smart for our own good? You decide!
+Honestly, we’ll probably invent three more by next week. Naming things is hard.
 
-## 🌶️ Spicy Skills 🌶️
-- 🔐 Turning regular accounts into abstract art
-- 🧙‍♂️ Making wallets so smart they might outsmart us
-- 🎭 Juggling multiple blockchain identities (legally, of course)
-- 🌈 Painting the town red (and every other color) with ERC-4337
+## Skills
 
-## 🔥 Hot Projects 🔥
-1. **AbstractionAction**: Because who needs concrete when you can have abstract?
-2. **WalletWizardry**: Making your crypto disappear and reappear, but cooler than a magic trick
-3. **SmartAccountSorcery**: Turning your dumb accounts into blockchain brainiacs
+- **ERC-4337: Account Abstraction Using Alt Mempool**  
+      
+    Living and breathing ERC-4337. It’s the backbone of modern account abstraction—UserOperations, alt mempools, bundlers, the works. Smart contracts as accounts, custom signatures, gas sponsorship, batch ops. If you know, you know.
+    
+- **ERC-6900: Modular Smart Contract Accounts and Plugins**  
+      
+    ERC-6900 is where things get spicy. Plug-ins, modules, session keys, spending limits, social recovery—bolt-on features for your smart account. Why build it all yourself when you can just snap it in?
+    
+- **ERC-7702: Set EOA Authorization**  
+      
+    ERC-7702 is the new kid on the block. Let your regular wallet pretend to be a smart account for one transaction, then go back to being boring. No migration, no drama. Just vibes.
+    
+- **ERC-7683: Cross Chain UltraRelay**  
+      
+    Not content with one chain? ERC-7683 is all about cross-chain moves—shared relayers, faster and cheaper transactions, and smart accounts that don’t care about your tribal chain wars.
+    
+- **ERC-7579: Modular Account Abstraction (Unofficial)**  
+      
+    ERC-7579 is for the tinkerers. Modular smart accounts, add or remove features on the fly. If you want your wallet to do something weird, this is where you start.
+    
 
-## 📊 GitHub Stats (They're Abstractly Awesome)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptoB0T&show_icons=true&theme=radical)
+---
 
-Remember: In the world of account abstraction, we don't make mistakes – we make happy little abstractions! 🎨
+If you want to talk shop, break stuff, or just rant about wallet UX, my DMs are open.
